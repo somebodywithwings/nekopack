@@ -14,3 +14,5 @@ Fork Deploy is highly recommended
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
+
+https://oss.v2rayse.com/proxies/data/2022-08-14/zapCBJ.txt
